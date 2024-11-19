@@ -1,0 +1,11 @@
+fastapi==0.95.2
+uvicorn==0.22.0
+pydantic==1.10.7
+langchain==0.0.280
+langchain-community==0.0.1
+langchain-google-genai==0.1.0
+faiss-cpu==1.7.4
+google-cloud-aiplatform==1.36.0
+google-cloud-storage==2.10.0
+google-cloud-core==2.3.3
+vertexai==0.5.0
